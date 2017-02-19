@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\bin\Debug\Anfiteatro_inventario.exe.config
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\bin\Debug\Anfiteatro_inventario.exe
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\bin\Debug\Anfiteatro_inventario.pdb
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.Form1.resources
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.Properties.Resources.resources
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.exe
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.pdb
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\obj\Debug\Anfiteatro_inventario.Form2.resources
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\Anfiteatro_inventario\Anfiteatro_inventario\bin\Debug\itextsharp.xml

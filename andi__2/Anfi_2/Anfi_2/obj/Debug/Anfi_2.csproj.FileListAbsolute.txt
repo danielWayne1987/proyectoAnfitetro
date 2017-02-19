@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\bin\Debug\Anfi_2.exe.config
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\bin\Debug\Anfi_2.exe
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\bin\Debug\Anfi_2.pdb
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.Form1.resources
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.Properties.Resources.resources
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.exe
+C:\Users\Daniel\Desktop\proyecto medicina\Anfitreatro C#\andi__2\Anfi_2\Anfi_2\obj\Debug\Anfi_2.pdb
